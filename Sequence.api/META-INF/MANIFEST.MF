@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Api
+Bundle-SymbolicName: Sequence.api
+Bundle-Version: 0.0.0
+Automatic-Module-Name: Sequence.api
+Bundle-RequiredExecutionEnvironment: JavaSE-21
+Export-Package: com.m.sequence.api

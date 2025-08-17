@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Fibo
+Bundle-SymbolicName: fibo
+Bundle-Version: 0.0.0
+Require-Bundle: Sequence.api;bundle-version="0.0.0"
+Automatic-Module-Name: fibo
+Bundle-RequiredExecutionEnvironment: JavaSE-21
+Export-Package: com.m.sequence.fibo
