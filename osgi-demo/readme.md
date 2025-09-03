@@ -7,7 +7,7 @@ It demonstrates how to create and run multiple OSGi bundles that interact with e
 
 ## Technologies Used
 
-- **Java** – Programming language for the bundles (Java 17 recommended).  
+- **Java** – Programming language for the bundles (Java 23 recommended).  
 - **Apache Felix** – Lightweight OSGi framework implementation used to run the application.  
 - **Maven** – Build automation and dependency management tool.  
 - **Maven Bundle Plugin (`org.apache.felix:maven-bundle-plugin`)** – Used to generate OSGi-compliant `MANIFEST.MF` files with bundle metadata (e.g., `Bundle-Activator`, `Export-Package`, `Import-Package`).  
